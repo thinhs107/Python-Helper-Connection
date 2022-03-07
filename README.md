@@ -1,2 +1,2 @@
-# Python-PostgreSQL-Connection
+# Python-Helper-Class
 Python Helper Module
